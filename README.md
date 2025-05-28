@@ -45,7 +45,7 @@ An intelligent browser extension that automatically scans web pages for accessib
 
 ```bash
 # Clone repository
-git clone https://github.com/debjit018/accessibility-auditor.git
+git clone https://github.com/debjit018/ai-accessibility-auditor.git
 
 # Install dependencies
 npm install
